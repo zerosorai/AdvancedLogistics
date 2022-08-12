@@ -27,3 +27,5 @@ Además de App Service, Azure ofrece otros servicios que se pueden usar para alo
 con Logistica de sorai Mexico podra resolver todos estos problemas 
 
 [![Alt text](https://img.youtube.com/vi/5Os6tvz3hcw/0.jpg)](https://www.youtube.com/watch?v=5Os6tvz3hcw)
+ahora te mostrare como se vera la forma en movil toda la documentacion esta agregada al proyecto 
+[![Alt text](https://img.youtube.com/vi/TZG4DV6TjuM/0.jpg)](https://www.youtube.com/watch?v=TZG4DV6TjuM)
