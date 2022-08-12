@@ -23,3 +23,7 @@ Integración de Visual Studio y Visual Studio Code : las herramientas dedicadas 
 API y funciones móviles : App Service proporciona soporte CORS llave en mano para escenarios de API RESTful y simplifica los escenarios de aplicaciones móviles al habilitar la autenticación, la sincronización de datos sin conexión, las notificaciones automáticas y más.
 Código sin servidor : ejecute un fragmento de código o un script a pedido sin tener que aprovisionar o administrar la infraestructura explícitamente, y pague solo por el tiempo de cómputo que realmente usa su código (consulte Funciones de Azure ).
 Además de App Service, Azure ofrece otros servicios que se pueden usar para alojar sitios web y aplicaciones web. Para la mayoría de los escenarios, App Service es la mejor opción. Para la arquitectura de microservicios, considere Azure Spring Apps o Service Fabric . Si necesita más control sobre las máquinas virtuales en las que se ejecuta su código, considere Azure Virtual Machines . Para obtener más información sobre cómo elegir entre estos servicios de Azure, consulte Comparación de Azure App Service, Virtual Machines, Service Fabric y Cloud Services .
+
+con Logistica de sorai Mexico podra resolver todos estos problemas 
+
+[![Alt text](https://img.youtube.com/vi/5Os6tvz3hcw/0.jpg)](https://www.youtube.com/watch?v=5Os6tvz3hcw)
